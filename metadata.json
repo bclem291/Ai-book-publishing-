@@ -1,0 +1,6 @@
+{
+  "name": "AHAVA AUTOS - Car Dealership & Sales Showroom",
+  "description": "Explore quality foreign-used, brand-new, and verified vehicles in Nigeria. Compare luxury cars, SUVs, sedans, and contact AHAVA AUTOS directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
